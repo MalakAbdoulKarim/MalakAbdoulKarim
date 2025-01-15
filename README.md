@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalakAbdoulKarim
 - 👀 I’m interested in Data scince 
-- 🌱 I’m currently learning Data analsis
+- 🌱 I’m currently learning Data Data analysis
 - 😄 Pronouns: She/her
 
 <!---
